@@ -5,47 +5,47 @@ Oomp Teardown Label Printer Niimbot D110
 # disassembly
 
 ## step: 1 in box
-[![in box](images/disassembly_1_300.jpg)](images/disassemble_1.jpg)  
+[![in box](images/disassembly_1_300.jpg)](images/disassembly_1.jpg)  
 boxed up
 
 ## step: 2 front
-[![front](images/disassembly_2_300.jpg)](images/disassemble_2.jpg)  
+[![front](images/disassembly_2_300.jpg)](images/disassembly_2.jpg)  
 front assembled
 
 ## step: 3 open
-[![open](images/disassembly_3_300.jpg)](images/disassemble_3.jpg)  
+[![open](images/disassembly_3_300.jpg)](images/disassembly_3.jpg)  
 open fully assembled
 
 ## step: 4 top
-[![top](images/disassembly_4_300.jpg)](images/disassemble_4.jpg)  
+[![top](images/disassembly_4_300.jpg)](images/disassembly_4.jpg)  
 top lid disassembled
 
 ## step: 5 removed guide wheel
-[![removed guide wheel](images/disassembly_5_300.jpg)](images/disassemble_5.jpg)  
+[![removed guide wheel](images/disassembly_5_300.jpg)](images/disassembly_5.jpg)  
 the guide wheel removed
 
 ## step: 6 top insert removed
-[![top insert removed](images/disassembly_6_300.jpg)](images/disassemble_6.jpg)  
+[![top insert removed](images/disassembly_6_300.jpg)](images/disassembly_6.jpg)  
 the top insert removed
 
 ## step: 7 side panel removed
-[![side panel removed](images/disassembly_7_300.jpg)](images/disassemble_7.jpg)  
+[![side panel removed](images/disassembly_7_300.jpg)](images/disassembly_7.jpg)  
 side panel removed, pcb, motor drive, and battery exposed
 
 ## step: 8 battery detail
-[![battery detail](images/disassembly_8_300.jpg)](images/disassemble_8.jpg)  
+[![battery detail](images/disassembly_8_300.jpg)](images/disassembly_8.jpg)  
 battery detail
 
 ## step: 9 label drive removed
-[![label drive removed](images/disassembly_9_300.jpg)](images/disassemble_9.jpg)  
+[![label drive removed](images/disassembly_9_300.jpg)](images/disassembly_9.jpg)  
 label drive removed rfid antennae exposed
 
 ## step: 10 label drive detail
-[![label drive detail](images/disassembly_10_300.jpg)](images/disassemble_10.jpg)  
+[![label drive detail](images/disassembly_10_300.jpg)](images/disassembly_10.jpg)  
 detail photo of the label drive
 
 ## step: 11 thermal head detail
-[![thermal head detail](images/disassembly_11_300.jpg)](images/disassemble_11.jpg)  
+[![thermal head detail](images/disassembly_11_300.jpg)](images/disassembly_11.jpg)  
 thermal head detail
 
 # pcb
