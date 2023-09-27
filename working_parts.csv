@@ -1,5 +1,5 @@
-designator,designator_image,oomp_key,description,description_lng,mpn,lcsc,link
-u1,[![u1](images/part_u1_140.jpg)](images/part_u1.jpg) ,,battery management ic,battery management ic chiplink tech cl4056d,cl4056d,C2920852,https://jlcpcb.com/partdetail/ChipLinkTech-CL4056D/C2920852
-u7,[![u7](images/part_u7_140.jpg)](images/part_u7.jpg) ,,dual h bridge driver,dual h bridge driver sa8833c pinout compatible with drv8833,sa8833c,C3681295,https://www.lcsc.com/product-detail/Motor-Driver-ICs_Texas-Instruments-DRV8833PW_C3681295.html
-u8,[![u8](images/part_u8_140.jpg)](images/part_u8.jpg) ,,microcontroller,microcontroller with high current gpio bank yichip yc3121,YC3121-L,C2916799,https://jlcpcb.com/partdetail/YICHIP-YC3121L/C2916799
-u11,[![u11](images/part_u11_140.jpg)](images/part_u11.jpg) ,,rf chip,rf chip yichip yc5018,YC5018,C2916804,https://jlcpcb.com/partdetail/Yichip-YC5018/C2916804
+designator,designator_image,oomp_key,note,description,description_lng,mpn,lcsc,link
+u1,[![u1](images/part_u1_140.jpg)](images/part_u1.jpg) ,,battery management ic,battery management ic,battery management ic chiplink tech cl4056d,cl4056d,C2920852,https://jlcpcb.com/partdetail/ChipLinkTech-CL4056D/C2920852
+u7,[![u7](images/part_u7_140.jpg)](images/part_u7.jpg) ,,stepper motor driver. Pinout compatible with drv8833,dual h bridge driver,dual h bridge driver sa8833c pinout compatible with drv8833,sa8833c,C3681295,https://www.lcsc.com/product-detail/Motor-Driver-ICs_Texas-Instruments-DRV8833PW_C3681295.html
+u8,[![u8](images/part_u8_140.jpg)](images/part_u8.jpg) ,,main mcu. Has a bank of high current gpio,microcontroller,microcontroller with high current gpio bank yichip yc3121,YC3121-L,C2916799,https://jlcpcb.com/partdetail/YICHIP-YC3121L/C2916799
+u11,[![u11](images/part_u11_140.jpg)](images/part_u11.jpg) ,,rf chip,rf chip,rf chip yichip yc5018,YC5018,C2916804,https://jlcpcb.com/partdetail/Yichip-YC5018/C2916804
