@@ -1,0 +1,39 @@
+id: oomlout_oomp_teardown_label_printer_niimbot_d110
+name: "Oomp Teardown Label Printer Niimbot D110"
+description: "Oomp Teardown Label Printer Niimbot D110"
+readme_manual: ""
+disassembly:
+- index: 1
+  title: "in box"
+  description: "boxed up"
+- index: 2
+  title: "front"
+  description: "front assembled"
+- index: 3
+  title: "open"
+  description: "open fully assembled"
+- index: 4
+  title: "top"
+  description: "top lid disassembled"
+- index: 5
+  title: "removed guide wheel"
+  description: "the guide wheel removed"
+- index: 6
+  title: "top insert removed"
+  description: "the top insert removed"
+- index: 7
+  title: "side panel removed"
+  description: "side panel removed, pcb, motor drive, and battery exposed"
+- index: 8
+  title: "battery detail"
+  description: "battery detail"
+- index: 9
+  title: "label drive removed"
+  description: "label drive removed rfid antennae exposed"
+- index: 10
+  title: "label drive detail"
+  description: "detail photo of the label drive"
+- index: 11
+  title: "thermal head detail"
+  description: "thermal head detail"
+
