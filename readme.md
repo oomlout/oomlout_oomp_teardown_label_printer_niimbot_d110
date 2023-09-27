@@ -1,7 +1,6 @@
 # Oomp Teardown Label Printer Niimbot D110
 Oomp Teardown Label Printer Niimbot D110
-
-Oomp Teardown Label Printer Niimbot D110  
+  
 # disassembly
 
 ## step: 1 in box
